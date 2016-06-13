@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ubuntu/babak/Desktop/Planets/app/src/main/res/values-w820dp/solar_system.xml -->
+    <eat-comment/>
+    <array name="planetIcon">
+        <item>@drawable/mercury</item>
+        <item>@drawable/venus</item>
+        <item>@drawable/earth</item>
+        <item>@drawable/mars</item>
+        <item>@drawable/ceres</item>
+        <item>@drawable/psyche</item>
+        <item>@drawable/jupiter</item>
+        <item>@drawable/saturn</item>
+        <item>@drawable/uranus</item>
+        <item>@drawable/neptune</item>
+        <item>@drawable/pluto</item>
+    </array>
+    <array name="planetaryGlyphs">
+        <item>@drawable/mercury_symbol</item>
+        <item>@drawable/venus_symbol</item>
+        <item>@drawable/earth_symbol</item>
+        <item>@drawable/mars_symbol</item>
+        <item>@drawable/ceres_symbol</item>
+        <item>@drawable/psyche_symbol</item>
+        <item>@drawable/jupiter_symbol</item>
+        <item>@drawable/saturn_symbol</item>
+        <item>@drawable/uranus_symbol</item>
+        <item>@drawable/neptune_symbol</item>
+        <item>@drawable/pluto_symbol</item>
+    </array>
+    <!-- From: file:/home/ubuntu/babak/Desktop/Planets/app/src/main/res/values-w820dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+</resources>

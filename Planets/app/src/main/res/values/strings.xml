@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Planets</string>
+    <string name="intro_title">Planet Picker!</string>
+    <string name="instruction">Pick the correct Symbol corresponding to the planet name</string>
+
+    <string-array name="planetNames">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Ceres</item>
+        <item>Psyche</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Pluto</item>
+    </string-array>
+
+</resources>
